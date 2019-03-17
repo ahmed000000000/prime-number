@@ -8,3 +8,7 @@ if num>1:
         print(num, "is a prime number")
 else:
   print(num, "is not a prime numer")
+  #if input is <1, not prime
+  #else checks to see if num divisible by any number greater than 2
+  # print prime
+  # else if num>1 and not divisible by any num, print that num is a prime number
